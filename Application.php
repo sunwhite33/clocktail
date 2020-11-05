@@ -5,7 +5,7 @@ require './vendor/autoload.php';
 
 // Check path to run
 $path = '/etc/clocktail.crontab';
-$log = './log/clocktail.log';
+$log = '/var/log/clocktail.log';
 
 // Create croon object
 $croon = new \Croon\Croon(array(
