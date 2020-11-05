@@ -1,0 +1,6 @@
+{
+    "require": {
+        "easy-task/easy-task": "^2.4",
+        "croon/croon": "^0.2.1"
+    }
+}
