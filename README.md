@@ -47,3 +47,8 @@ compatible crontab format
     [0 bit can be omitted, if there is no 0 bit, then the minimum time granularity is minutes]
 
 
+Remark
+------------------
+
++ You can check log information in the log file
++ Run clocktail program with nohup or & to daemon
