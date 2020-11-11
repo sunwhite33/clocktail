@@ -1,5 +1,4 @@
 # clocktail 
-=============
 
 clocktail is a lightweight, accurate to the second and compatible crontab program written in PHP
 
